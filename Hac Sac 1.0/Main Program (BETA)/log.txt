@@ -1,0 +1,8 @@
+1) 2020-11-09 12:52:39 || First Boot || Capacity Updated to 1200 || Administrator Mode
+2) 2020-11-09 12:53:31 || Password Changed || User: Shreyans || Administrator Mode
+3) 2020-11-09 12:54:19 || DEPOSIT: || Name: Shaunak || Stock Type: Watch  || Cost of Stock Per Piece: 1799 || Quantity Deposit: 120
+4) 2020-11-09 12:55:17 || DEPOSIT: || Name: Sam || Stock Type: Giftcard_1000 || Cost of Stock Per Piece: 1000 || Quantity Deposit: 400
+5) 2020-11-09 12:55:59 || Error || Deposit Amount more than Storage Capacity || XYZ || User Mode
+6) 2020-11-09 12:56:26 || Live Stock View Requested || User: Shreyans || Administrator Mode
+7) 2020-11-09 12:57:00 || Error || Entry not found for Withdrawal || Sam || User Mode
+8) 2020-11-09 12:57:23 || WITHDRAWAL: || Name: Shaunak || Stock Type: Watch  || Cost of Stock Per Piece: 1799 || Quantity Withdrew: 2

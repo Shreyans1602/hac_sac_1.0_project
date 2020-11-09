@@ -1,0 +1,9 @@
+Due to a major problem of livestock wastage in Agriculture Sector due to poor storage facilities and techniques, our most important farmers suffer a huge loss.
+
+Hence, this System is an easy to use  program which is useful for people from all the diverse backgrounds in India that is especially for farmers and to the highest levels of professionals. It is secure, very fast, accurate and easy to use made in India Program. It has QR Code generating and scanning features for unique identification and for entering reliable data very fast. It has two levels of operation:
+
+1) Administrator Mode: It has special features for Administrators which includes livestock of warehouse on fingertip, changing administrator password and warehouse capacity. A password is needed to access this mode for security.
+
+2) User Mode: Users can Deposit or Withdraw Stock by Scanning their unique Stock ID in form of QR Code. All space availability and modification is automatically handled by the program.
+
+Additional Features: The program automatically creates an SQL Database File for user needs and log file for debug and usage history needs. Empty Entries are automatically deleted to ensure compact database size. The program is made such that it can easily be ported to all the platforms easily which includes MacOS, Linux, Windows, Android or iOS. It also has an audible beep entry confirmation feature.
